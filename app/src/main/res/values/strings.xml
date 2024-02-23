@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kebab">Description of your image</string>
+    <string name="kebab_name">Вау! Кебаб </string>
+    <string name="kebab_desc">Мясо говядины, соус ранч,
+        сыр моцарелла, сладкий перец, томаты, красный лук
+        и фирменный томатный соус </string>
+    <string name="pepe_name">Пепперони с грибами </string>
+    <string name="pepe_desc">Пикантная пепперони, моцарелла, шампиньоны, соус альфредо </string>
+    <string name="vet_name">Ветчина и огурчики </string>
+    <string name="vet_desc">Соус ранч, моцарелла, ветчина из цыпленка, маринованные огурчики, красный лук </string>
+    <string name="mix_name">Миксик </string>
+    <string name="mix_desc">Пицца четвертинками с ветчиной из цыпленка, томатами, брынзой, моцареллой,
+        фирменным соусом альфредо.
+        Набор юного садовода в подарок </string>
+    <string name="zh_name">Пицца Жюльен </string>
+    <string name="zh_desc">Цыпленок, шампиньоны, ароматный грибной соус, лук, сухой чеснок,
+        моцарелла, смесь сыров чеддер и пармезан, фирменный соус альфредо </string>
+    <string name="ch_name">Сырная </string>
+    <string name="ch_desc">Моцарелла, сыры чеддер и пармезан, соус альфредо</string>
+    <string name="fr_name">Пепперони фреш </string>
+    <string name="fr_desc">Пикантная пепперони, мно-о-ого моцареллы, томаты и томатный соус</string>
+    <string name="avg_size">Средняя 30 см, традиционное тесто 530 г </string>
+    <string name="kebab_price">В КОРЗИНУ ЗА 4400 KZT </string>
+    <string name="pepe_price">В КОРЗИНУ ЗА 3100 KZT </string>
+    <string name="vet_price">В КОРЗИНУ ЗА 3100 KZT </string>
+    <string name="mix_price">В КОРЗИНУ ЗА 2200 KZT </string>
+    <string name="zh_price">В КОРЗИНУ ЗА 3900 KZT </string>
+    <string name="ch_price">В КОРЗИНУ ЗА 3000 KZT </string>
+    <string name="fr_price">В КОРЗИНУ ЗА 3000 KZT </string>
+    <string name="leav">&lt;</string>
+    <string name="pizza">Меню</string>
+    <string name="search">Search</string>
+</resources>
